@@ -1,4 +1,4 @@
-arequal - Tool to test data security of GlusterFS
+arequal - Tool to test data integrity of GlusterFS
 =======
 
 ```console
